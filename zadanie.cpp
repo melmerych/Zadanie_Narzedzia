@@ -1,9 +1,6 @@
 ﻿#include<iostream>
-
 using namespace std;
-
 int bezwzgledna(int n)
-
 {
 	if (n < 0)
 	{
@@ -11,8 +8,6 @@ int bezwzgledna(int n)
 	}
 	return n;
 }
-
-
 int main()
 {
 	int n;
